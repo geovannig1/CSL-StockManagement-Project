@@ -21,3 +21,15 @@ The CSL StockManagement Project is a web application designed to efficiently man
 4. **Reports and Logs**:
    - Generate reports on component usage, availability, and maintenance history.
    - Maintain logs for auditing purposes.
+
+## Tech Stack
+
+- **Frontend**:
+  - HTML
+  - CSS
+  - JavaScript (for dynamic behavior)
+
+- **Backend**:
+  - PHP (for server-side logic)
+  - MySQL (or any preferred database for data storage)
+
